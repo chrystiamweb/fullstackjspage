@@ -1,0 +1,108 @@
+html,body,.row {
+  margin: 0 auto;
+  padding: 0px;
+  }
+
+.first-section{
+  background-color: #2A2346;
+  width: 100vw;
+}
+.title{
+  text-align: center;
+  color: white;
+}
+
+.separator{
+  width: 100vw;
+  height: 1px;
+  margin-bottom: 15px;
+  background-color:#00F7FF;
+  position: absolute;
+}
+
+.content{
+  padding: 25px;
+}
+
+.text{
+  font-size: 17px;
+  color: #A7A2AE;
+}
+
+.text h5{
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  font-style: oblique;
+  
+}
+.action { 
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.action img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.action p{
+ color: white;
+ text-align: center;
+ font-size: 25px;
+ font-style: bold;
+
+}
+
+.arrow {
+  font-style: bold;
+}
+
+.second-section{
+  background: white;
+}
+
+.third-section{
+  background-color: #694ED8;
+  color: white;
+  font-size: 24px;
+}
+
+.fourth-section{
+  background-color: #251938;
+  color: white;
+}
+
+.center-items{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.sticker{
+  background: #694ED8;
+  font-size: 30px;
+  border-color: #694ED8 #FECB2F #694ED8 #694ED8;
+  border-right-style: solid;
+  border-width: 5px;
+}
+
+.small-text{
+  font-size: 13px;
+  font-style: italic;
+}
+
+.fifth-section{
+  color: white;
+  background-color: #694ED8;
+}
+
+.block-title{
+  color: #694ED8;
+  background-color: #FECB2F;
+  font-size: 30px;
+  font-style: strong;
+}
+.block-text{
+  font-size: 20px;
+}
